@@ -1,1 +1,1 @@
-# Stealth-Browser
+# Stealth Browser
